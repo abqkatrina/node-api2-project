@@ -1,0 +1,17 @@
+.App {
+  background-color: forestgreen;
+  color: blanchedalmond;
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+  padding-left: 25px;
+  margin: 5px, auto;
+}
+
+li {
+  margin: 5px, auto, 5px, auto;
+  padding: 5px, 0;
+  border: 1px solid blanchedalmond;
+}
